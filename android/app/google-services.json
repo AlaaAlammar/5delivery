@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445752029618",
+    "project_id": "deliveryapp-16e35",
+    "storage_bucket": "deliveryapp-16e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445752029618:android:e3e52693a97a9c4897b4ab",
+        "android_client_info": {
+          "package_name": "com.example.tatbekat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmBzmDKcv4BOCWboOqKwt4-yuCJFWvg6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
