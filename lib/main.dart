@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:tatbekat/notificationView/Common/me.dart';
 import 'package:tatbekat/notificationView/home_view.dart';
 import 'notificationView/Common/firebase_push_notification_helper.dart';
 
